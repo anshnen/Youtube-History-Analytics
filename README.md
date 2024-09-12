@@ -17,5 +17,3 @@
 <li>Pass --g G for running the script on Google Searches data</li>
 <li>It provide output in the csv files in the working directory</li>
 </ul>
-
-<h5>For queries or issues, feel free to contact or open an <a href="https://github.com/srcecde/google-youtube-history-analytics/issues">issue</a></h5>
